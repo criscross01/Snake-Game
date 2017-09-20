@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{02F13E3D-C2BD-47AA-B79A-796C71C98166}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Snake__Solution PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="COld\Game.cs">
+    <Files>
+      <File FileName="COld\Program.cs" Line="12" Column="21" />
+      <File FileName="COld\Game.cs" Line="10" Column="50" />
+      <File FileName="COld\SnakeHead.cs" Line="3" Column="2" NotebookId="1" />
+      <File FileName="COld\GameObject.cs" Line="23" Column="2" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

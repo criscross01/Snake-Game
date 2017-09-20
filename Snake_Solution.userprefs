@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{02F13E3D-C2BD-47AA-B79A-796C71C98166}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Catchpoint exceptionName="System.IndexOutOfRangeException" includeSubclasses="True" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Snake__Solution PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="COld\Menu.cs">
+    <Files>
+      <File FileName="COld\Menu.cs" Line="115" Column="30" />
+      <File FileName="COld\Main.cs" Line="8" Column="4" />
+      <File FileName="COld\Game.cs" Line="99" Column="6" />
+      <File FileName="COld\SnakeHead.cs" Line="50" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
